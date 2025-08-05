@@ -43,6 +43,7 @@
 
 - *GitHub*: [@Yas-Devp](https://github.com/Yas-Devp)
 - *Email*: yas-pro.dev@gmail.com
+- *Instagram*: [@loris_yas](https://instagram.com/loris_yas)
 - *LinkedIn*: *Coming Soon*
 
 ---
