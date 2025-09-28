@@ -46,6 +46,8 @@
 - *Instagram*: [@loris_yas](https://instagram.com/loris_yas)
 - *LinkedIn*: [@yassin-loris](https://www.linkedin.com/in/yassin-loris-a79006387)
 
+---
+
 ☕ Love what I build?
 
 If you enjoy my projects, consider supporting me with a coffee!  
@@ -55,7 +57,7 @@ Your support keeps me coding (and caffeinated)! 🧃💻
   <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee" />
 </a>
 <br>
-💡 *"One coffee = one bug fixed ☕🐞"*
+💡 * "One coffee = one bug fixed ☕🐞" *
 
 ---
 
