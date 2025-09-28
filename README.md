@@ -44,7 +44,7 @@
 - *GitHub*: [@Yas-Devp](https://github.com/Yas-Devp)
 - *Email*: yas-pro.dev@gmail.com
 - *Instagram*: [@loris_yas](https://instagram.com/loris_yas)
-- *LinkedIn*: *Coming Soon*
+- *LinkedIn*: [@yassin-loris](https://www.linkedin.com/in/yassin-loris-a79006387)
 
 ---
 
