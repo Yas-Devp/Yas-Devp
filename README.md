@@ -46,6 +46,15 @@
 - *Instagram*: [@loris_yas](https://instagram.com/loris_yas)
 - *LinkedIn*: [@yassin-loris](https://www.linkedin.com/in/yassin-loris-a79006387)
 
+☕ Love what I build?
+
+If you enjoy my projects, consider supporting me with a coffee!  
+Your support keeps me coding (and caffeinated)! 🧃💻
+
+<a href="https://ko-fi.com/loris_" target="_blank">
+  <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee" />
+</a>
+💡 *"One coffee = one bug fixed ☕🐞"*
 ---
 
 > “The only way to do great work is to love what you do.” – Steve Jobs
