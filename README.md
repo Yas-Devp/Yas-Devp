@@ -54,7 +54,9 @@ Your support keeps me coding (and caffeinated)! 🧃💻
 <a href="https://ko-fi.com/loris_" target="_blank">
   <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee" />
 </a>
+<br>
 💡 *"One coffee = one bug fixed ☕🐞"*
+
 ---
 
 > “The only way to do great work is to love what you do.” – Steve Jobs
