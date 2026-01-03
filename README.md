@@ -16,10 +16,10 @@
 💡 Skills & Technologies
 
 *Languages & Scripting*  
-`Java` `Python` `C` `C++` `JavaScript` `Bash` `HTML` `CSS`
+`Java` `Python` `C` `JavaScript` `Bash` `HTML` `CSS`
 
 *Development Tools*  
-`VS Code` `Git` `Linux Shell` `GCC / Clang` `Node.js` `pip`
+`VS Code` `Git` `Linux Shell` `GCC / Clang` `Node.js` `pip` `Express.js` `npm`
 
 *Focus Areas*  
 - Backend Logic & APIs  
@@ -57,7 +57,7 @@ Your support keeps me coding (and caffeinated)! 🧃💻
   <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee" />
 </a>
 <br>
-💡 * "One coffee = one bug fixed ☕🐞" *
+☕ One coffee = one bug fixed 🐞
 
 ---
 
