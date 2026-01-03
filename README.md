@@ -45,6 +45,7 @@
 - *Email*: yas-pro.dev@gmail.com
 - *Instagram*: [@loris_yas](https://instagram.com/loris_yas)
 - *LinkedIn*: [@yassin-loris](https://www.linkedin.com/in/yassin-loris-a79006387)
+- *YouTube*: [@LorisYas](https://youtube.com/@loris_yas?si=fQ_kZADg72yEzKPM&sub_confirmation=1)
 
 ---
 
