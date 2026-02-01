@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Yassine 👨‍💻</h1>
+<h1 align="center">Hi, I'm <a href="https://yas-devp.github.io/portfolio" style="color:#fff;" >Yassine</a> 👨‍💻</h1>
 <p align="center">
   Passionate Developer | Tech Explorer | Problem Solver
 </p>
@@ -41,6 +41,7 @@
 
 📬 Let's Connect
 
+- *Portfolio*: [Yas-Devp](https://yas-devp.github.io/portfolio)
 - *GitHub*: [@Yas-Devp](https://github.com/Yas-Devp)
 - *Email*: yas-pro.dev@gmail.com
 - *Instagram*: [@loris_yas](https://instagram.com/loris_yas)
